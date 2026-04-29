@@ -1,0 +1,85 @@
+[
+  {
+    "date": "Jan 2025",
+    "session_type": "Session",
+    "exercises": [
+      {
+        "name": "bodyweight squats",
+        "sets": 3,
+        "reps_or_duration": 15,
+        "weight_kg": null,
+        "notes": null
+      },
+      {
+        "name": "push-ups",
+        "sets": 3,
+        "reps_or_duration": 8,
+        "weight_kg": null,
+        "notes": null
+      },
+      {
+        "name": "plank",
+        "sets": 3,
+        "reps_or_duration": 20,
+        "weight_kg": null,
+        "notes": null
+      }
+    ],
+    "duration_mins": null,
+    "how_it_felt": "Back sore after",
+    "pain_noted": "Lower back pain"
+  },
+  {
+    "date": "Jan 2025",
+    "session_type": "Session",
+    "exercises": [
+      {
+        "name": "walk",
+        "sets": null,
+        "reps_or_duration": 20,
+        "weight_kg": null,
+        "notes": null
+      },
+      {
+        "name": "resistance band rows",
+        "sets": 3,
+        "reps_or_duration": 12,
+        "weight_kg": null,
+        "notes": null
+      },
+      {
+        "name": "glute bridges",
+        "sets": 3,
+        "reps_or_duration": 15,
+        "weight_kg": null,
+        "notes": null
+      }
+    ],
+    "duration_mins": null,
+    "how_it_felt": "Felt good, no back pain",
+    "pain_noted": null
+  },
+  {
+    "date": "Feb 2025",
+    "session_type": "Session",
+    "exercises": [
+      {
+        "name": "dumbbell curls",
+        "sets": 3,
+        "reps_or_duration": 12,
+        "weight_kg": 5,
+        "notes": null
+      },
+      {
+        "name": "shoulder press",
+        "sets": 2,
+        "reps_or_duration": 10,
+        "weight_kg": 5,
+        "notes": null
+      }
+    ],
+    "duration_mins": null,
+    "how_it_felt": "Felt weak overall",
+    "pain_noted": null
+  }
+]

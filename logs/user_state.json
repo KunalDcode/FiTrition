@@ -1,0 +1,36 @@
+{
+  "week_start": "2026-03-16",
+  "daily_logs": [
+    {
+      "log_date": "2026-03-19",
+      "workout_completed": true,
+      "workout_skipped": false,
+      "skip_reason": null,
+      "exercises_done": [],
+      "exercises_skipped": [],
+      "calories_consumed": 2400,
+      "protein_consumed_g": 50,
+      "pain_level": 5,
+      "energy_level": 5,
+      "notes": ""
+    },
+    {
+      "log_date": "2026-03-20",
+      "workout_completed": true,
+      "workout_skipped": false,
+      "skip_reason": null,
+      "exercises_done": [],
+      "exercises_skipped": [],
+      "calories_consumed": 2140,
+      "protein_consumed_g": 48,
+      "pain_level": 4,
+      "energy_level": 6,
+      "notes": ""
+    }
+  ],
+  "sessions_completed": 2,
+  "sessions_remaining": 3,
+  "deficit_exercises": [],
+  "total_calories_this_week": 4540,
+  "total_protein_this_week": 98
+}

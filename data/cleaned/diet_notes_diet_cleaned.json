@@ -1,0 +1,64 @@
+[
+  {
+    "meal": "Breakfast",
+    "foods": [
+      "aloo parathas",
+      "curd",
+      "almonds",
+      "cashews",
+      "pumpkin seeds",
+      "chia seeds",
+      "munakkas",
+      "bananas",
+      "white bread",
+      "peanut butter",
+      "full-fat milk",
+      "pomegranate"
+    ],
+    "calories_approx": 800,
+    "protein_g_approx": 30,
+    "time": "8:30 AM",
+    "notes": null
+  },
+  {
+    "meal": "Lunch",
+    "foods": [
+      "cooked white rice",
+      "dal (lentils)",
+      "soya chunks",
+      "potato sabzi",
+      "ghee",
+      "curd",
+      "cucumber",
+      "onion"
+    ],
+    "calories_approx": 1000,
+    "protein_g_approx": 40,
+    "time": "1:30 PM",
+    "notes": null
+  },
+  {
+    "meal": "Snack",
+    "foods": [
+      "sattu shake",
+      "peanut butter",
+      "banana",
+      "dry fruit"
+    ],
+    "calories_approx": 300,
+    "protein_g_approx": 10,
+    "time": "5:00 PM",
+    "notes": "Sometimes a banana or nothing"
+  },
+  {
+    "meal": "Dinner",
+    "foods": [
+      "rotis",
+      "sabzi (mixed vegetables)"
+    ],
+    "calories_approx": 600,
+    "protein_g_approx": 20,
+    "time": "9:00 PM",
+    "notes": null
+  }
+]

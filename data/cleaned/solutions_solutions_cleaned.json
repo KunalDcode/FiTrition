@@ -1,0 +1,110 @@
+[
+  {
+    "topic": "Lower Back Pain During Exercise",
+    "problem": "Weak core muscles unable to support the spine, tight hip flexors pulling on the lower back, poor posture during sitting and exercise, overloading the spine before core is strong enough",
+    "solution": "Strengthen core gradually, stretch hip flexors daily, avoid heavy spine-loading, replace heavy exercises with lighter alternatives, always warm up the back",
+    "exercises": [
+      "Glute bridges",
+      "Bird dog",
+      "Dead bug",
+      "Resistance band rows",
+      "Side-lying leg raises",
+      "Swimming or walking",
+      "Wall squats"
+    ],
+    "diet_tips": [],
+    "precautions": [
+      "Stop immediately if pain radiates down the leg (nerve involvement)",
+      "Sleep with a pillow between knees if side sleeper",
+      "Avoid prolonged sitting — stand every 45 minutes"
+    ],
+    "tags": [
+      "back_pain",
+      "weakness",
+      "stamina",
+      "recovery",
+      "diet"
+    ]
+  },
+  {
+    "topic": "Body Weakness / General Low Strength",
+    "problem": "Sedentary lifestyle, insufficient protein intake, poor sleep, low muscle mass",
+    "solution": "Progressive overload, compound movements, protein intake, sleep, eat in a caloric surplus",
+    "exercises": [
+      "Push-ups",
+      "Dumbbell rows",
+      "Goblet squat",
+      "Dumbbell shoulder press",
+      "Resistance band pull-aparts",
+      "Romanian deadlift with light dumbbells"
+    ],
+    "diet_tips": [],
+    "precautions": [],
+    "tags": [
+      "weakness",
+      "stamina",
+      "recovery",
+      "diet"
+    ]
+  },
+  {
+    "topic": "Low Stamina / Cardio Fitness",
+    "problem": "Low stamina / cardio fitness",
+    "solution": "Start with 15-20 minute walks, progress to brisk walking, then jogging intervals, focus on strength first",
+    "exercises": [],
+    "diet_tips": [],
+    "precautions": [],
+    "tags": [
+      "stamina",
+      "cardio",
+      "recovery"
+    ]
+  },
+  {
+    "topic": "Weight Gain (Underweight / Hardgainer)",
+    "problem": "Weight gain (underweight / hardgainer)",
+    "solution": "Eat in a surplus, prioritize protein, add calorie-dense foods, eat 5-6 smaller meals, liquid calories help",
+    "exercises": [
+      "Focus on heavy compound lifts (progressive)",
+      "Limit cardio to 1-2x per week (don't burn the surplus)",
+      "Rest 48-72 hours between training the same muscle group"
+    ],
+    "diet_tips": [
+      "Milk + banana + peanut butter smoothie (~500 kcal, 20g protein)",
+      "Paneer bhurji with 3 rotis (~600 kcal, 30g protein)",
+      "Chicken curry + 2 cups rice (~700 kcal, 40g protein)",
+      "Dal makhani + rice + curd (~550 kcal, 22g protein)",
+      "Egg bhurji (4 eggs) + toast (~400 kcal, 28g protein)"
+    ],
+    "precautions": [],
+    "tags": [
+      "weight_gain",
+      "diet",
+      "recovery"
+    ]
+  },
+  {
+    "topic": "Tight Shoulders / Poor Posture",
+    "problem": "Tight shoulders / poor posture",
+    "solution": "Daily chest stretches, band pull-aparts daily, strengthen upper back, avoid excessive phone/screen hunching, add wall angels to morning routine",
+    "exercises": [],
+    "diet_tips": [],
+    "precautions": [],
+    "tags": [
+      "poor_posture",
+      "recovery"
+    ]
+  },
+  {
+    "topic": "Recovery Protocols",
+    "problem": "Recovery protocols",
+    "solution": "Protein within 30-60 minutes, hydrate well, light stretching or walk the next day (active recovery), pain level 0-3: continue with modifications, pain level 4-6: reduce intensity by 50%, focus on mobility, pain level 7+: rest, treat the issue, consult a professional if persists",
+    "exercises": [],
+    "diet_tips": [],
+    "precautions": [],
+    "tags": [
+      "recovery",
+      "sleep"
+    ]
+  }
+]

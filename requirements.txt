@@ -1,0 +1,21 @@
+# Core LLM & agent framework
+google-generativeai>=0.5.0     # Gemini (free tier) - swap with anthropic / openai if needed
+langchain>=0.2.0
+langchain-google-genai>=1.0.0
+langchain-community>=0.2.0
+
+# Vector store (local, free)
+chromadb>=0.5.0
+
+# Data handling
+pandas>=2.0.0
+pydantic>=2.0.0
+
+# Utilities
+python-dotenv>=1.0.0
+rich>=13.0.0                   # pretty terminal output
+typer>=0.12.0                  # CLI interface
+
+# Optional: for reading PDFs/docx if your data is in those formats
+pypdf>=4.0.0
+python-docx>=1.0.0

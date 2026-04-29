@@ -1,0 +1,127 @@
+# Solutions & Knowledge Base
+# This is the document the agent uses for RAG.
+# Add everything you know about your problems and their solutions here.
+# You can also paste in advice from doctors, physiotherapists, or articles.
+
+## Problem: Lower Back Pain During Exercise
+
+### Causes:
+- Weak core muscles unable to support the spine
+- Tight hip flexors pulling on the lower back
+- Poor posture during sitting and exercise
+- Overloading the spine before core is strong enough
+
+### Solutions:
+- Strengthen core gradually: dead bugs, bird dogs, glute bridges, planks
+- Stretch hip flexors daily: kneeling hip flexor stretch, pigeon pose
+- Avoid heavy spine-loading: no heavy deadlifts or back squats until back is strong
+- Replace: use Romanian deadlifts with light weight, goblet squats, box squats
+- Always warm up the back: cat-cow, child's pose before any workout
+
+### Exercises SAFE for back pain:
+- Glute bridges (builds posterior chain, protects back)
+- Bird dog (core stability without spinal compression)
+- Dead bug (deep core activation)
+- Resistance band rows (upper back, no spinal load)
+- Side-lying leg raises (glutes, no back involvement)
+- Swimming or walking (low impact)
+- Wall squats
+- Kegels: 
+
+### Exercises to AVOID until stronger:
+- Heavy barbell squats
+- Conventional deadlifts with heavy weight
+- Sit-ups and crunches (spinal flexion under load)
+- Any movement that causes shooting pain
+
+### Precautions:
+- Stop immediately if pain radiates down the leg (nerve involvement)
+- Sleep with a pillow between knees if side sleeper
+- Avoid prolonged sitting — stand every 45 minutes
+
+---
+
+## Problem: Body Weakness / General Low Strength
+
+### Causes:
+- Sedentary lifestyle
+- Insufficient protein intake
+- Poor sleep
+- Low muscle mass
+
+### Solutions:
+- Progressive overload: gradually increase weight/reps each week
+- Compound movements: squats (modified), rows, push-ups, lunges
+- Protein: target 1.8-2.3g per kg body weight
+- Sleep: 7-9 hours is essential for muscle repair
+- Eat in a caloric surplus (for weight gain)
+
+### Exercises to build overall strength (beginner):
+- Push-ups (progress to incline → standard → decline)
+- Dumbbell rows
+- Goblet squat
+- Dumbbell shoulder press
+- Resistance band pull-aparts
+- Romanian deadlift with light dumbbells
+
+---
+
+## Problem: Low Stamina / Cardio Fitness
+
+### Solutions:
+- Start with 15-20 minute walks, 3x per week
+- Progress to brisk walking, then jogging intervals
+- Don't do cardio the same day as heavy strength (or do it after)
+- Focus on strength first — muscle mass improves overall metabolism and stamina
+
+---
+
+## Problem: Weight Gain (Underweight / Hardgainer)
+
+### Diet strategy:
+- Eat in a surplus: 300-500 kcal above maintenance
+- Prioritize protein: eggs, chicken, paneer, dal, milk, curd
+- Add calorie-dense foods: peanut butter, nuts, whole milk, rice, roti, banana
+- Eat 5-6 smaller meals if struggling to eat large portions
+- Liquid calories help: milk-based smoothies, lassi with added peanut butter
+
+### Sample high-calorie Indian foods:
+- Milk + banana + peanut butter smoothie (~500 kcal, 20g protein)
+- Paneer bhurji with 3 rotis (~600 kcal, 30g protein)
+- Dal makhani + rice + curd (~550 kcal, 22g protein)
+
+### Workout for weight gain:
+- Focus on heavy compound lifts (progressive)
+- Limit cardio to 1-2x per week (don't burn the surplus)
+- Rest 48-72 hours between training the same muscle group
+- Shoulder exercises: Shoulder press(with bricks), front raises, rear delt fly, side raises
+- 
+---
+
+## Problem: Tight Shoulders / Poor Posture
+
+### Solutions:
+- Daily chest stretches (doorframe stretch)
+- Band pull-aparts daily
+- Strengthen upper back: rows, face pulls
+- Avoid excessive phone/screen hunching
+- Add wall angels to morning routine
+
+---
+
+## Recovery Protocols
+
+### After a hard workout:
+- Protein within 30-60 minutes
+- Hydrate well
+- Light stretching or walk the next day (active recovery)
+
+### When to rest vs push:
+- Pain level 0-3: continue with modifications
+- Pain level 4-6: reduce intensity by 50%, focus on mobility
+- Pain level 7+: rest, treat the issue, consult a professional if persists
+
+### Sleep:
+- Most important recovery tool
+- Aim for 7.5-9 hours
+- Poor sleep = poor muscle growth, higher injury risk

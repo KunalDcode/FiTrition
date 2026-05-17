@@ -4,6 +4,12 @@ langchain>=0.2.0
 langchain-google-genai>=1.0.0
 langchain-community>=0.2.0
 
+# Fast API for serving the agent
+fastapi uvicorn python-multipart
+fastapi
+uvicorn
+python-multipart
+
 # Vector store (local, free)
 chromadb>=0.5.0
 

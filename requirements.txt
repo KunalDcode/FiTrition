@@ -5,7 +5,7 @@ langchain-google-genai>=1.0.0
 langchain-community>=0.2.0
 
 # Fast API for serving the agent
-fastapi uvicorn python-multipart
+fastapi
 fastapi
 uvicorn
 python-multipart

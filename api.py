@@ -57,7 +57,7 @@ def save_state(state: WeeklyState):
 
 def build_context(profile, state, query=""):
     today  = date.today().isoformat()
-    chunks = retrieve(" ".join(profile.health_issues) + " " + query, n_results=6)
+    chunks = retrieve(" ".join(profile.health_issues) + " " + query, n_results=3)
     knowledge = "\n\n".join(f"[{c['source']}]\n{c['text']}" for c in chunks)
 
     non_neg  = "\n".join(f"- {x}" for x in getattr(profile, 'daily_non_negotiables', []))
